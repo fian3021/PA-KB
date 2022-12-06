@@ -30,7 +30,9 @@
 <br>
 
 #### - Al Fiana Nur Priyanti / 2109106022
+- Sebagai Ketua Kelompok dan mengatur Data Analisis & Visualization, Modeling, Evaluasi
 #### - Shafira Octafia / 2109106023
+- Bagian mengatur Data Collecting, Preprocessing, dan Prediksi
 
 ## 1. Penjelasan DataSet
 Link Sumber Dataset Cat vs Rabbit berasal dari [kaggle](https://www.kaggle.com/datasets/muniryadi/cat-vs-rabbit)<br> 
