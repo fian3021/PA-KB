@@ -33,9 +33,10 @@
 #### - Shafira Octafia / 2109106023
 
 ## 1. Penjelasan DataSet
-Link Sumber Dataset Klasifikasi Sampah yang berasal dari [kaggle](https://www.kaggle.com/datasets/muniryadi/cat-vs-rabbit)<br> 
+Link Sumber Dataset Cat vs Rabbit berasal dari [kaggle](https://www.kaggle.com/datasets/muniryadi/cat-vs-rabbit)<br> 
+Dataset yang telah displit terdapat pada folder "Cat vs Rabbit" <br>
 
-Kumpulan data citra yang berisikan gambar kucing dan kelinci. Pada dataset aslinya sudah terbagi data test, data train , dan  data validation. Kemudian data test, train , dan validation digabungkan menjadi satu sesuai dengan kelasnya. Dengan perbandingan 7:1:2.
+Kumpulan data citra yang berisikan gambar kucing dan kelinci. Karena pada dataset aslinya sudah terbagi data train, data test, dan data validation. Kami menggabungkan data yang sudah terbagi tersebut menjadi satu sesuai dengan kelasnya. Lalu di split lagi dengan perbandingan 7:1:2.
 
 ## 2. Penjelasan Project
 Pada projek akhir ini membahas mengenai model kecerdasan buatan dalam menentukan apakah benar hewan yang diprediksi itu termasuk kedalam klasifikasi hewan kucing atau kelinci.
