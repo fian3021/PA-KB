@@ -3,7 +3,7 @@
     <h1>PROYEK AKHIR<br><b>CLASSIFICATION OF CATS AND RABBITS</b><br><b>KECERDASAN BUATAN</b></h1><br>
     <div>
         <a>
-            <img src="Images/unmul.png" height="150">
+            <img src="Image/unmul.png" height="150">
         </a>
         <div align="center">
             <p style="font-size: 18px;">
